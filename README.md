@@ -1,7 +1,7 @@
 # SSMSpine
 **SSMSpine** dataset comprises a total of **12,500** synthetic yet realistic mid-sagittal lumbar spine MR images. Each MRI is annotated with the identification of five lumbar discs **(D1, D2, D3, D4, D5)** and six vertebral bones **(L1, L2, L3, L4, L5, S1)**.SSMSpine provides not just annotated segmentation masks but also includes landmark coordinates, offering valuable information for diverse medical image analysis tasks.
 
-The image dimensions are **512 × 512**, and the intensity of each image is normalized to fall within the range **[0,1]**. The size of image is **512 × 512**. The intensity of each image is normalized into range [0,1]. The dataset also include intensity corrected images, intensity equalized images, pixel labels, masks, landmark points coordinates for each subject in images. There are **236** shape landmark points for each vertebra bone, and **176** shape landmark points for each lumbar disc.
+Image size is **512 × 512**, and the intensity of each image is normalized to fall within the range **[0,1]**. The dataset also include intensity corrected images, intensity equalized images, pixel labels, masks, landmark points coordinates for each subject in images. There are **236** shape landmark points for each vertebra bone, and **176** shape landmark points for each lumbar disc.
 
 The SSMSpine dataset is synthesized using a combination of a statistical shape model (SSM) and biomechanics. For details of the generation process, please refer to our paper ***[SymTC: A Symbiotic Transformer-CNN Net for Instance Segmentation of Lumbar Spine MRI](https://arxiv.org/abs/2401.09627)***.
 
