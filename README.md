@@ -15,10 +15,10 @@ You can use direct links to download  [SSMSpine Dataset](https://drive.google.co
 
 | Name  | Content | Patient Texture | Virtual Shape | Virtual Patients | Size | Link |
 | :---: | :---: | :---: | :---: | :---: |:---: | :---: |
-| `SSMSpine_Train.zip`  | Train| 80 | 125 |10,000| 20.23GB | [Download](https://drive.google.com/file/d/1WkiMCZC5gz_zKf5cXHVwUw5uJCcFIRrM/view?usp=sharing)|
-| `SSMSpine_Test.zip`  | Test| 20 | 125 | 2,500 | 5.19GB | [Download](https://drive.google.com/file/d/17Xp3fEIKo9h1VNMkEXzG5SWIRB8uol02/view?usp=sharing)|
-| `SSMSpine_Train_Sample.zip` | Train samples | 1 | 125 | 125| 205.6MB | [Download](https://drive.google.com/file/d/1D2_j9wm7_E-SBQ53E6sIDi-q3gQZlB39/view?usp=drive_link)|
-| `SSMSpine_Test_Sample.zip`  | Test samples | 1 | 125 | 125| 261.7MB | [Download](https://drive.google.com/file/d/1K7WtxCH3tvAanIRXVlReerrigM1iu21k/view?usp=drive_link)|
+| `SSMSpine_Train.zip`  | Train Set| 80 | 125 |10,000| 20.23GB | [Download](https://drive.google.com/file/d/1WkiMCZC5gz_zKf5cXHVwUw5uJCcFIRrM/view?usp=sharing)|
+| `SSMSpine_Test.zip`  | Test Set| 20 | 125 | 2,500 | 5.19GB | [Download](https://drive.google.com/file/d/17Xp3fEIKo9h1VNMkEXzG5SWIRB8uol02/view?usp=sharing)|
+| `SSMSpine_Train_Sample.zip` | Train Set Samples | 1 | 125 | 125| 205.6MB | [Download](https://drive.google.com/file/d/1D2_j9wm7_E-SBQ53E6sIDi-q3gQZlB39/view?usp=drive_link)|
+| `SSMSpine_Test_Sample.zip`  | Test Set Samples | 1 | 125 | 125| 261.7MB | [Download](https://drive.google.com/file/d/1K7WtxCH3tvAanIRXVlReerrigM1iu21k/view?usp=drive_link)|
 
 ## Data Description
 
