@@ -70,21 +70,16 @@ The description of image labels is as follows:
 
 To access the complete SSMSpine dataset, which is password-protected, kindly send an email to the jiasong.chen@miami.edu for further assistance.
 
-## TO DO
-
-* Upload SSMSpine_S
-
-* Upload SSMSpine_M
 
 ## CITATION
 
 ```latex
-@misc{chen2024symtc,
-      title={SymTC: A Symbiotic Transformer-CNN Net for Instance Segmentation of Lumbar Spine MRI}, 
-      author={Jiasong Chen and Linchen Qian and Linhai Ma and Timur Urakov and Weiyong Gu and Liang Liang},
-      year={2024},
-      eprint={2401.09627},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@article{chen2024evaluation,
+  title={Evaluation of Deep Neural Network Models for Instance Segmentation of Lumbar Spine MRI},
+  author={Chen, Jiasong and Qian, Linchen and Ma, Linhai and Urakov, Timur and Gu, Weiyong and Liang, Liang},
+  journal={bioRxiv},
+  pages={2024--04},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory}
 }
 ```
