@@ -3,7 +3,7 @@
 
 Image size is **512 × 512**, and the intensity of each image is normalized to fall within the range **[0,1]**. The dataset also include intensity corrected images, intensity equalized images, pixel labels, masks, landmark points coordinates for each subject in images. There are **236** shape landmark points for each vertebra bone, and **176** shape landmark points for each lumbar disc.
 
-The SSMSpine dataset is synthesized using a combination of a statistical shape model (SSM) and biomechanics. For details of the generation process, please refer to our paper ***[SymTC: A Symbiotic Transformer-CNN Net for Instance Segmentation of Lumbar Spine MRI](https://www.sciencedirect.com/science/article/abs/pii/S0010482524008801)***.
+The SSMSpine dataset is synthesized using a combination of a statistical shape model (SSM) and biomechanics, which serves as a special way of de-identifying patient image data. For details of the generation process, please refer to our paper ***[Evaluation of Deep Neural Network Models for Instance Segmentation of Lumbar Spine MRI](https://www.biorxiv.org/content/10.1101/2024.04.02.587810v1)***.
 
 Kindly be aware that the SSMSpine dataset is exclusively intended for research purposes.
 
