@@ -31,10 +31,10 @@ The data is organized as a dictionary. The following provides the data details.
 | img_equalized |(512, 512)|Intensity Equalized Image |
 | label | (1, 512, 512) | Label Map |
 | mask | (11, 512, 512) | Binary Label Masks (Bone/Disc) |
-| shape | (1696, 2) | Shape Landmarks (All Points) |
-| bone | (6, 236, 2) | Shape Landmarks (Bone Points) |
+| shape | (1696, 2) | Shape Coordinates (All Landmark Points) |
+| bone | (6, 236, 2) | Shape Coordinates (Bone Landmark Points) |
 | bone_mask |(6, 512, 512)| Binary Label Masks (Bone) |
-| disk |(5, 176 ,2)| Shape Landmarks (Disc Points) |
+| disk |(5, 176 ,2)| Shape Coordinates (Disc Landmark Points) |
 | disk_mask |(5, 512, 512)| Binary Label Masks (Disc) |
 
 
