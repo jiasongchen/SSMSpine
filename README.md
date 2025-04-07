@@ -68,7 +68,9 @@ Install [PyTorch](https://pytorch.org/) and Load data with [torch.load( )](https
 
 ## CONTACT
 
-To access the complete SSMSpine dataset, which is password-protected, kindly send an email to the jiasong.chen@miami.edu for further assistance.
+To access the complete SSMSpine dataset, which is password-protected, kindly send an email to the jiasong.chen@miami.edu for further assistance. 
+
+For further details regarding the project, please contact the corresponding author [Liang Liang](https://liangbright.wordpress.com/).
 
 
 ## CITATION
