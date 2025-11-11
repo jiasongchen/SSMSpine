@@ -76,12 +76,13 @@ For further details regarding the project, please contact the corresponding auth
 ## CITATION
 
 ```latex
-@article{chen2024evaluation,
-  title={Evaluation of Deep Neural Network Models for Instance Segmentation of Lumbar Spine MRI},
+@article{chen2024symtc,
+  title={SymTC: A symbiotic Transformer-CNN net for instance segmentation of lumbar spine MRI},
   author={Chen, Jiasong and Qian, Linchen and Ma, Linhai and Urakov, Timur and Gu, Weiyong and Liang, Liang},
-  journal={bioRxiv},
-  pages={2024--04},
+  journal={Computers in biology and medicine},
+  volume={179},
+  pages={108795},
   year={2024},
-  publisher={Cold Spring Harbor Laboratory}
+  publisher={Elsevier}
 }
 ```
