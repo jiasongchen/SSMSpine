@@ -15,10 +15,10 @@ You can use direct links to download  [SSMSpine Dataset](https://drive.google.co
 
 | Name  | Content | Patient Texture | Virtual Shape | Virtual Patients | Size | Link |
 | :---: | :---: | :---: | :---: | :---: |:---: | :---: |
-| `SSMSpine_Train.zip`  | Train Set| 80 | 125 |10,000| 20.23GB | [Download](https://drive.google.com/file/d/1WkiMCZC5gz_zKf5cXHVwUw5uJCcFIRrM/view?usp=sharing)|
-| `SSMSpine_Test.zip`  | Test Set| 20 | 125 | 2,500 | 5.19GB | [Download](https://drive.google.com/file/d/17Xp3fEIKo9h1VNMkEXzG5SWIRB8uol02/view?usp=sharing)|
-| `SSMSpine_Train_Sample.zip` | Train Set Samples | 1 | 125 | 125| 205.6MB | [Download](https://drive.google.com/file/d/1D2_j9wm7_E-SBQ53E6sIDi-q3gQZlB39/view?usp=drive_link)|
-| `SSMSpine_Test_Sample.zip`  | Test Set Samples | 1 | 125 | 125| 261.7MB | [Download](https://drive.google.com/file/d/1K7WtxCH3tvAanIRXVlReerrigM1iu21k/view?usp=drive_link)|
+| `SSMSpine_Train.zip`  | Train Set| 80 | 125 |10,000| 20.23GB | [Download](https://drive.google.com/file/d/1BqLXAwzNL6ZEvWy1Vn2xpS_AA3XXip_y/view?usp=sharing)|
+| `SSMSpine_Test.zip`  | Test Set| 20 | 125 | 2,500 | 5.19GB | [Download](https://drive.google.com/file/d/114O97tl49U1pXRntp9OBEXS2oRzbz1ih/view?usp=sharing)|
+| `SSMSpine_Train_Sample.zip` | Train Set Samples | 1 | 125 | 125| 205.6MB | [Download](https://drive.google.com/file/d/17hDyZ9CdtA-yKQ95qCN-cRDZWjdPL2Mb/view?usp=sharing)|
+| `SSMSpine_Test_Sample.zip`  | Test Set Samples | 1 | 125 | 125| 261.7MB | [Download](https://drive.google.com/file/d/1raxSVmP3cauQUdBASXbZjhjdGQCjWbkL/view?usp=sharing)|
 
 ## Data Description
 
@@ -68,7 +68,7 @@ Install [PyTorch](https://pytorch.org/) and Load data with [torch.load( )](https
 
 ## CONTACT
 
-To access the complete SSMSpine dataset, which is password-protected, kindly send an email to the jiasong.chen@miami.edu for further assistance. 
+If you have any questions regarding the dataset download, kindly send an email to the jiasong.chen@miami.edu for further assistance. 
 
 For further details regarding the project, please contact the corresponding author [Liang Liang](https://liangbright.wordpress.com/).
 
