@@ -9,7 +9,7 @@ Kindly be aware that the SSMSpine dataset is exclusively intended for research p
 
 ## Download Dataset
 
-You can use direct links to download  [SSMSpine Dataset](https://drive.google.com/drive/folders/17QXBCrfcQB6Gc4ITZBAURHoD60AMEQBB?usp=drive_link).
+You can use direct links to download  [SSMSpine Dataset](https://drive.google.com/drive/folders/1X8aRDLCkUMYA0Ejm6H51nUAFmTxRWtja?usp=sharing).
 
 
 
